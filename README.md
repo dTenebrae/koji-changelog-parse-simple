@@ -1,0 +1,1 @@
+# koji-changelog-parse-simple
